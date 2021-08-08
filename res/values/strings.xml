@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="typybryl1">
+        <item>Graniastosłup prawidłowy/foremny</item>
+        <item>Graniastosłup pochyły</item>
+        <item>Ostrosłup prawidłowy/foremny</item>
+        <item>Ostrosłup pochyły</item>
+        <item>Prostopadłościan</item>
+        <item>Stożek prosty</item>
+        <item>Stożek pochyły</item>
+        <item>Sześcian</item>
+        <item>Walec prosty</item>
+        <item>Walec pochyły</item>
+    </string-array>
+    <string-array name="typybryl2">
+        <item>trójkątny</item>
+        <item>czworokątny</item>
+        <item>pięciokątny</item>
+        <item>sześciokątny</item>
+        <item>siedmiokątny</item>
+        <item>ośmiokątny</item>
+        <item>dziewięciokątny</item>
+        <item>dziesięciokątny</item>
+    </string-array>
+    <string-array name="typybryl3">
+        <item>kołowy</item>
+        <item>eliptyczny</item>
+    </string-array>
+    <string-array name="widoki">
+        <item>rysowany liniami</item>
+        <item>rysowany trójkątami</item>
+    </string-array>
+    
+</resources>

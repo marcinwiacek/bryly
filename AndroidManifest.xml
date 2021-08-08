@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mwiacek.bryly"
+    android:versionCode="2"
+    android:versionName="1.1" >
+<uses-feature android:glEsVersion="0x00020000" android:required="true" />
+    
+    <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="9"/>
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="Bryły" android:allowBackup="true">
+        <activity
+            android:name="com.mwiacek.bryly.Bryly"
+            android:label="Bryły" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
